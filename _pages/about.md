@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: cognitive neuroscientist
+subtitle: / cognitive neuroscientist / code wrangler / mental health researcher /
 
 profile:
   align: right
