@@ -127,13 +127,6 @@ ninja.data = [{
           window.open("https://bsky.app/profile/rcyeung.bsky.social", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%72%79%65%75%6E%67@%72%65%73%65%61%72%63%68.%62%61%79%63%72%65%73%74.%6F%72%67", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
