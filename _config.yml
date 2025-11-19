@@ -194,6 +194,9 @@ exclude:
   ### removing blog - see CUSTOMIZE.md
   - _pages/blog.md
   - _posts/
+  ### removing repositories - see CUSTOMIZE.md
+  - _pages/repositories.md
+  - _includes/repository/
 keep_files:
   - CNAME
   - .nojekyll
