@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Materials for courses and workshops I've taught.
 nav: true
 nav_order: 6
-display_categories: [work, fun]
+display_categories: [courses, workshops]
 horizontal: false
 ---
 
