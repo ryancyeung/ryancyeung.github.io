@@ -11,7 +11,11 @@ nav_order: 2
 {%- bibliography_count -%}
 {%- endcapture -%}
 
-**{{ pub_count }}** peer-reviewed publications.
+{%- capture pub_count_first_authored -%}
+{%- bibliography_count --query @*[first_authored ^= true] -%}
+{%- endcapture -%}
+
+**{{ pub_count }}** peer-reviewed publications (**{{ pub_count_first_authored }}** as first author).
 
 <!-- _pages/publications.md -->
 
