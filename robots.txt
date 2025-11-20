@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ryancyeung.github.io./sitemap.xml
+Sitemap: https://ryancyeung.github.io/sitemap.xml
