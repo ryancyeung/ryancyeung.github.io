@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Materials for courses and workshops I&#39;ve taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -105,6 +105,51 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "teaching-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/1_project.html";
+            },},{id: "teaching-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/2_project.html";
+            },},{id: "teaching-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/3_project.html";
+            },},{id: "teaching-project-4",
+          title: 'project 4',
+          description: "another without an image",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/4_project.html";
+            },},{id: "teaching-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/5_project.html";
+            },},{id: "teaching-project-6",
+          title: 'project 6',
+          description: "a project with no image",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/6_project.html";
+            },},{id: "teaching-project-7",
+          title: 'project 7',
+          description: "with background image",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/7_project.html";
+            },},{id: "teaching-project-8",
+          title: 'project 8',
+          description: "an other project with a background image and giscus comments",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/8_project.html";
+            },},{id: "teaching-project-9",
+          title: 'project 9',
+          description: "another project with an image 🎉",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/9_project.html";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
