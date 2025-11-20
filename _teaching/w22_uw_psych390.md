@@ -1,14 +1,11 @@
 ---
 layout: page
 title: PSYCH 390-002
-description: Research in Memory
+description: Research in Memory (W22), University of Waterloo
 img: assets/img/3.jpg
 importance: 2
 category: courses
 ---
-
-# PSYCH 390-002 (Research in Memory), Winter 2022
-University of Waterloo
 
 ## Course Description
 Questions to be addressed include: How is information encoded and retrieved? What types of memory exist? How can we measure these forms of memory? Why does forgetting occur? What biological changes accompany memory loss? Can memory impairments be rehabilitated?
@@ -18,7 +15,7 @@ There is also a lab component to this course. The goal of the lab component is t
 Several major themes in the area of memory research are explored in this course. Historically influential ideas, current theoretical debates, and the application of cognitive, social, neuroimaging, & neuropsychological approaches to the study of memory are reviewed and discussed.
 
 ## Course Structure and Requirements
-By the end of the course, you will have a detailed knowledge of a wide range of memory phenomena and a solid foundation from which to pursue more advanced study. The introduction to OpenSesame will familiarize you with how experiments are set up, and the variables that can be manipulated. Attendance at lectures and in labs is essential. **Group Presentations** are designed to promote discussion of relevant ideas and concepts. The poster session is designed to introduce you to how research results are communicated at scientific conferences and meetings.
+By the end of the course, you will have a detailed knowledge of a wide range of memory phenomena and a solid foundation from which to pursue more advanced study. The introduction to OpenSesame will familiarize you with how experiments are set up, and the variables that can be manipulated. Attendance at lectures and in labs is essential. Group Presentations are designed to promote discussion of relevant ideas and concepts. The poster session is designed to introduce you to how research results are communicated at scientific conferences and meetings.
 
 ## Schedule of readings and activities
 

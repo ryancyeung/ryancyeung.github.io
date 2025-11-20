@@ -1,14 +1,11 @@
 ---
 layout: page
 title: GL-PSYC3390
-description: Memory (W25)
+description: Memory (W25), York University - Glendon Campus
 img: assets/img/12.jpg
 importance: 1
 category: courses
 ---
-
-# GL-PSYC3390 (Memory), Winter 2025
-Glendon Campus, York University
 
 ## Expanded course description: 
 Why do we forget some things, while others last a lifetime? How do we learn? What types of memory exist? How can we measure these forms of memory? What biological changes accompany learning and memory loss? Can memory impairments be rehabilitated?
