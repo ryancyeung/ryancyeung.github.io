@@ -105,11 +105,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
-            },},{id: "teaching-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/4_project.html";
             },},{id: "teaching-project-5",
           title: 'project 5',
           description: "a project with a background image",
@@ -140,6 +135,11 @@ ninja.data = [{
           description: "beginner to intermediate",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/intro_to_r.html";
+            },},{id: "teaching-textwash",
+          title: 'Textwash',
+          description: "machine learning methods for deidentifying text",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/textwash.html";
             },},{id: "teaching-psych-390-002",
           title: 'PSYCH 390-002',
           description: "Research in Memory (W22), University of Waterloo",
