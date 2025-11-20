@@ -105,21 +105,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
-            },},{id: "teaching-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/1_project.html";
-            },},{id: "teaching-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/2_project.html";
-            },},{id: "teaching-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/3_project.html";
             },},{id: "teaching-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -150,6 +135,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/9_project.html";
+            },},{id: "teaching-intro-to-r",
+          title: 'Intro to R',
+          description: "beginner to intermediate",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/intro_to_r.html";
+            },},{id: "teaching-psych-390-002",
+          title: 'PSYCH 390-002',
+          description: "Research in Memory",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/w22_uw_psych390.html";
+            },},{id: "teaching-gl-psyc3390",
+          title: 'GL-PSYC3390',
+          description: "Memory (W25)",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/w25_gl_psyc3390.html";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
