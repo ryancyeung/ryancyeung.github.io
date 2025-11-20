@@ -15,9 +15,11 @@ Here's what I've been listening to recently:
 <iframe src="https://open.spotify.com/embed/playlist/5Fv4HQ8yg3XqcZWmIPudnP" width="100%" height="380" frameBorder="0" style="border-radius:12px" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <br>
-<br>
 
 Powered by [SmarterPlaylists](http://smarterplaylists.playlistmachinery.com/){:target="_blank" rel="noopener"}. This playlist is automatically generated once a month based on my recent listening history.
+
+<br>
+<br>
 
 ## Albums of the Month
 
