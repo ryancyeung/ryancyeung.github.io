@@ -199,6 +199,8 @@ exclude:
   - _includes/repository/
   ### removing repositories
   - _pages/profiles.md
+  ### removing dropdown
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
