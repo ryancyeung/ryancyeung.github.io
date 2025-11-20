@@ -2,7 +2,7 @@
 layout: page
 title: Topic Modeling
 description: (semi-)automated content analysis
-img: assets/img/2.jpg
+img: assets/img/4.jpg
 importance: 5
 category: workshops
 ---
