@@ -196,7 +196,7 @@
         <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
       {% if entry.doi %}
-        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-link"></i> DOI</a>
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
@@ -220,7 +220,7 @@
       {% endif %}
       {% comment %} add osf button {% endcomment %}
       {% if entry.osf %}
-        <a href="{{ entry.osf }}" class="btn btn-sm z-depth-0" role="button">OSF</a>
+        <a href="{{ entry.osf }}" class="btn btn-sm z-depth-0" role="button"><i class="ai ai-osf"></i> OSF</a>
       {% endif %}
       {% if entry.supp %}
         {% if entry.supp contains '://' %}
@@ -238,7 +238,7 @@
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
       {% endif %}
       {% if entry.code %}
-        <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+        <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-code"></i> Code</a>
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
