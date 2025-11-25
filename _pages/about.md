@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Postdoctoral Fellow</p>
+    <p><a href="https://levinelab.weebly.com/">Levine Lab</a></p>
     <p>Rotman Research Institute</p>
     <p>Toronto, ON</p>
 
