@@ -49,16 +49,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-2024-04-10-news-aps-article",
+          title: '2024 04 10_news_aps Article',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/2024-04-10_news_aps-article.html";
+            },},{id: "news-i-m-officially-a-schmidt-ai-in-science-postdoc-thanks-uoft-and-schmidt-sciences",
+          title: 'I’m officially a Schmidt AI in Science Postdoc! Thanks UofT and Schmidt Sciences!...',
+          description: "",
+          section: "News",},{id: "news-finally-launched-the-big-website-reformat-still-under-construction-warning-construction",
+          title: 'Finally launched the big website reformat. Still under construction! :warning: :construction:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
