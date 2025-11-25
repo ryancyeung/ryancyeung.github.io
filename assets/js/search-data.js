@@ -49,12 +49,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-2024-04-10-news-aps-article",
-          title: '2024 04 10_news_aps Article',
+            },},{id: "news-got-interviewed-by-the-association-for-psychological-science-about-our-recent-work-on-trait-memory-imagery-and-ptsd",
+          title: 'Got interviewed by the Association for Psychological Science about our recent work on...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2024-04-10_news_aps-article.html";
-            },},{id: "news-i-m-officially-a-schmidt-ai-in-science-postdoc-thanks-uoft-and-schmidt-sciences",
+          section: "News",},{id: "news-i-m-officially-a-schmidt-ai-in-science-postdoc-thanks-uoft-and-schmidt-sciences",
           title: 'I’m officially a Schmidt AI in Science Postdoc! Thanks UofT and Schmidt Sciences!...',
           description: "",
           section: "News",},{id: "news-finally-launched-the-big-website-reformat-still-under-construction-warning-construction",
