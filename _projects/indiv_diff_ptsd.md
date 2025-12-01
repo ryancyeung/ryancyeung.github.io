@@ -1,0 +1,13 @@
+---
+layout: page
+title: individual differences & PTSD
+description: neurocognitive profiles of PTSD risk vs. resilience
+img: assets/img/6.jpg
+importance: 3
+category: "" # work
+related_publications: true
+---
+
+A current line of my research leverages stable between-person differences in vivid memory to ask whether these pretraumatic factors predict PTSD risk versus resilience. My previous work has shown that more vivid and detailed memories are more likely to recur intrusively {% cite yeung2020recurrent %}; as such, it stands to reason that people who naturally generate more vivid and detailed memories (e.g., those with strong trait visual imagery) might be more prone to developing PTSD in the aftermath of trauma exposure. Conversely, individuals who generally experience more abstract or gist-like memories (e.g., those with strong trait spatial imagery) might be protected against vivid recollection of intrusive memories. Indeed, my work has found large-scale evidence of stronger trait visual imagery being related to significantly more PTSD symptoms in individuals exposed to Criterion A traumatic events. In contrast, stronger spatial-schematic processing was related to fewer PTSD symptoms, arguing that some forms of trait imagery are risk factors, whereas others may be protective {% cite yeung2025curse %}. 
+
+I am currently extending this work to longitudinal design, examining whether baseline trait imagery predicts future PTSD symptoms within-person. I am currently recruiting paramedic students at the beginning of enrolment (prior to occupational trauma exposure), collecting baseline data on their cognitive profiles (e.g., trait imagery), and following them for up to two years as they are inevitably exposed to potentially traumatic events on the job. I have helped secure CIHR funding to support this work ($810,900 as a co-investigator), and participants are currently being recruited from over five paramedic colleges in Ontario. This work has critical implications for the PTSD literature, which has largely abandoned research on pretraumatic, cognitive individual differences. The autobiographical memory literature will also benefit from testing longstanding hypotheses about memory’s relationship to imagery. My work argues that basic cognitive neuroscience principles can—and should—inform understanding of clinical outcomes, since being able to identify who is at greater risk for developing PTSD can improve prevention, more accurate prediction, and earlier, targeted intervention.
