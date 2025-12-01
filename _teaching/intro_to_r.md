@@ -2,7 +2,7 @@
 layout: page
 title: Intro to R
 description: beginner to intermediate
-img: assets/img/7.jpg
+img: assets/img/tidying_up.jpg
 importance: 3
 category: workshops
 ---
