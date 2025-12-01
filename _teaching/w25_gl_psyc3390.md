@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GL-PSYC3390
-description: Memory (W25), York University - Glendon Campus
+description: Memory (W25) @ York University (Glendon Campus)
 img: assets/img/12.jpg
 importance: 1
 category: courses

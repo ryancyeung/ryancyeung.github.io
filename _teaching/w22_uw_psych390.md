@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PSYCH 390-002
-description: Research in Memory (W22), University of Waterloo
+description: Research in Memory (W22) @ University of Waterloo
 img: assets/img/3.jpg
 importance: 2
 category: courses
