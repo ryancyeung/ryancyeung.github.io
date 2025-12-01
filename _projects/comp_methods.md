@@ -5,6 +5,7 @@ description: open-source AI/ML/NLP tools
 img: assets/img/8.jpg
 importance: 5
 category: "" # fun
+related_publications: true
 ---
 
 As a proponent of the open science movement, open-source development is deeply important to me. My training as a cognitive neuroscientist informs my approach towards using and developing AI methods, in that fundamental principles of ethics, reproducibility, and replicability are more important than ever. To this end, I release all of my code and data openly, wherever ethically sound. 
