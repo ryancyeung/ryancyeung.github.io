@@ -58,32 +58,7 @@ ninja.data = [{
           section: "News",},{id: "news-finally-launched-the-big-website-reformat-still-under-construction-warning-construction",
           title: 'Finally launched the big website reformat. Still under construction! :warning: :construction:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
+          section: "News",},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
@@ -103,6 +78,31 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "projects-computational-methods",
+          title: 'computational methods',
+          description: "open-source AI/ML/NLP tools",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/comp_methods.html";
+            },},{id: "projects-individual-differences-amp-ptsd",
+          title: 'individual differences &amp;amp; PTSD',
+          description: "neurocognitive profiles of PTSD risk vs. resilience",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/indiv_diff_ptsd.html";
+            },},{id: "projects-mechanisms-of-vivid-memory",
+          title: 'mechanisms of vivid memory',
+          description: "neural and oculomotor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanisms.html";
+            },},{id: "projects-objective-content",
+          title: 'objective content',
+          description: "autobiographical memory narratives",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/objective_content.html";
+            },},{id: "projects-subjective-experiences",
+          title: 'subjective experiences',
+          description: "phenomenology of (intrusive) memories",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/subjective_experiences.html";
             },},{id: "teaching-project-6",
           title: 'project 6',
           description: "a project with no image",
