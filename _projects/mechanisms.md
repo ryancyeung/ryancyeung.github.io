@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mechanisms of vivid memory
-description: neural and oculomotor 
+description: neural and oculomotor contributions
 img: assets/img/5.jpg
 importance: 4
 category: "" # fun
