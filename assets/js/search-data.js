@@ -70,7 +70,7 @@ ninja.data = [{
               window.location.href = "/projects/indiv_diff_ptsd.html";
             },},{id: "projects-mechanisms-of-vivid-memory",
           title: 'mechanisms of vivid memory',
-          description: "neural and oculomotor",
+          description: "neural and oculomotor contributions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanisms.html";
             },},{id: "projects-objective-content",
@@ -120,12 +120,12 @@ ninja.data = [{
               window.location.href = "/teaching/topic_model.html";
             },},{id: "teaching-psych-390-002",
           title: 'PSYCH 390-002',
-          description: "Research in Memory (W22), University of Waterloo",
+          description: "Research in Memory (W22) @ University of Waterloo",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/w22_uw_psych390.html";
             },},{id: "teaching-gl-psyc3390",
           title: 'GL-PSYC3390',
-          description: "Memory (W25), York University - Glendon Campus",
+          description: "Memory (W25) @ York University (Glendon Campus)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/w25_gl_psyc3390.html";
             },},{
