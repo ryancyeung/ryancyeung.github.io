@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-02-23'
 papers:
   bulW1o4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -17,12 +17,16 @@ papers:
     citations: 3
     title: 'The curse of imagery: Trait object and spatial imagery differentially relate to trauma and stress outcomes'
     year: '2024'
+  bulW1o4AAAAJ:HDshCWvjkbEC:
+    citations: 0
+    title: 'Visual imagery and STEM occupational attainment: Gender matters'
+    year: '2026'
   bulW1o4AAAAJ:IWHjjKOFINEC:
-    citations: 4
-    title: 'The Curse of Imagery: Trait Object and Spatial Imagery Differentially Relate to Symptoms of Posttraumatic Stress Disorder'
+    citations: 5
+    title: 'The curse of imagery: Trait object and spatial imagery differentially relate to symptoms of posttraumatic stress disorder'
     year: '2025'
   bulW1o4AAAAJ:L8Ckcad2t8MC:
-    citations: 5
+    citations: 6
     title: Recurrent involuntary memories and mind wandering are related but distinct
     year: '2024'
   bulW1o4AAAAJ:QIV2ME_5wuYC:
@@ -50,7 +54,7 @@ papers:
     title: Evaluating the Impacts of an Undergraduate Mental Health Literacy Course
     year: '2024'
   bulW1o4AAAAJ:aqlVkmm33-oC:
-    citations: 19
+    citations: 18
     title: 'Machine learning to detect invalid text responses: Validation and comparison to existing detection methods'
     year: '2022'
   bulW1o4AAAAJ:dhFuZR0502QC:
@@ -58,15 +62,15 @@ papers:
     title: 'Specific topics, specific symptoms: linking the content of recurrent involuntary memories to mental health using computational text analysis'
     year: '2023'
   bulW1o4AAAAJ:hC7cP41nSMkC:
-    citations: 4
+    citations: 5
     title: 'Visual imagery and STEM occupational attainment: Gender matters'
-    year: '2026'
+    year: '2024'
   bulW1o4AAAAJ:hqOjcs7Dif8C:
-    citations: 23
+    citations: 22
     title: Social anxiety enhances recognition of task-irrelevant threat words
     year: '2019'
   bulW1o4AAAAJ:kNdYIx-mwKoC:
-    citations: 23
+    citations: 22
     title: 'Recurrent involuntary autobiographical memories: Characteristics and links to mental health status'
     year: '2020'
   bulW1o4AAAAJ:mB3voiENLucC:
@@ -82,6 +86,6 @@ papers:
     title: Evidence of temporal and emotional alignment between song cues and their evoked autobiographical memories
     year: '2025'
   bulW1o4AAAAJ:qxL8FJ1GzNcC:
-    citations: 38
+    citations: 39
     title: Recurrent involuntary memories are modulated by age and linked to mental health.
     year: '2021'
