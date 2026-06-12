@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-12'
 papers:
   bulW1o4AAAAJ:-f6ydRqryjwC:
     citations: 0
     title: 'Online Assessment of Individual Differences in Memory and Cognition: Risk and Resilience'
     year: '2025'
   bulW1o4AAAAJ:0EnyYjriUFMC:
-    citations: 10
+    citations: 11
     title: Altered working memory capacity for social threat words in high versus low social anxiety
     year: '2019'
   bulW1o4AAAAJ:4DMP91E08xMC:
-    citations: 17
+    citations: 19
     title: Understanding autobiographical memory content using computational text analysis
     year: '2022'
   bulW1o4AAAAJ:7PzlFSSx8tAC:
@@ -30,9 +30,13 @@ papers:
     title: Recurrent involuntary memories and mind wandering are related but distinct
     year: '2024'
   bulW1o4AAAAJ:QIV2ME_5wuYC:
-    citations: 8
+    citations: 10
     title: Disentangling boredom from depression using the phenomenology and content of involuntary autobiographical memories
     year: '2024'
+  bulW1o4AAAAJ:TQgYirikUcIC:
+    citations: 0
+    title: Can computational sentiment analysis classify autobiographical memories? Comparing VADER and TextBlob.
+    year: '2026'
   bulW1o4AAAAJ:ULOm3_A8WrAC:
     citations: 1
     title: The influence of social anxiety-provoking contexts on context reinstatement effects
@@ -46,7 +50,7 @@ papers:
     title: 'The Persistence of Involuntary Memory: Analyzing Phenomenology, Links to Mental Health, and Content'
     year: '2022'
   bulW1o4AAAAJ:YOwf2qJgpHMC:
-    citations: 20
+    citations: 21
     title: Divided attention at encoding or retrieval interferes with emotionally enhanced memory for words
     year: '2021'
   bulW1o4AAAAJ:ZeXyd9-uunAC:
@@ -54,7 +58,7 @@ papers:
     title: Evaluating the Impacts of an Undergraduate Mental Health Literacy Course
     year: '2024'
   bulW1o4AAAAJ:aqlVkmm33-oC:
-    citations: 22
+    citations: 23
     title: 'Machine learning to detect invalid text responses: Validation and comparison to existing detection methods'
     year: '2022'
   bulW1o4AAAAJ:dhFuZR0502QC:
@@ -70,7 +74,7 @@ papers:
     title: Social anxiety enhances recognition of task-irrelevant threat words
     year: '2019'
   bulW1o4AAAAJ:kNdYIx-mwKoC:
-    citations: 22
+    citations: 24
     title: 'Recurrent involuntary autobiographical memories: Characteristics and links to mental health status'
     year: '2020'
   bulW1o4AAAAJ:mB3voiENLucC:
@@ -78,14 +82,14 @@ papers:
     title: 'Voluntary and recurrent involuntary autobiographical memories: Similar phenomenology, different relationships with psychopathology.'
     year: '2025'
   bulW1o4AAAAJ:mVmsd5A6BfQC:
-    citations: 12
+    citations: 13
     title: It's Time to Bring Mental Health Literacy Education into the Postsecondary Curriculum.
     year: '2023'
   bulW1o4AAAAJ:qUcmZB5y_30C:
-    citations: 2
+    citations: 4
     title: Evidence of temporal and emotional alignment between song cues and their evoked autobiographical memories
     year: '2025'
   bulW1o4AAAAJ:qxL8FJ1GzNcC:
-    citations: 41
+    citations: 43
     title: Recurrent involuntary memories are modulated by age and linked to mental health.
     year: '2021'
