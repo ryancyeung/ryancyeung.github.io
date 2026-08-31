@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-31'
 papers:
   bulW1o4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -62,7 +62,7 @@ papers:
     title: 'Machine learning to detect invalid text responses: Validation and comparison to existing detection methods'
     year: '2022'
   bulW1o4AAAAJ:dhFuZR0502QC:
-    citations: 3
+    citations: 4
     title: 'Specific topics, specific symptoms: linking the content of recurrent involuntary memories to mental health using computational text analysis'
     year: '2023'
   bulW1o4AAAAJ:hC7cP41nSMkC:
@@ -82,7 +82,7 @@ papers:
     title: 'Voluntary and recurrent involuntary autobiographical memories: Similar phenomenology, different relationships with psychopathology.'
     year: '2025'
   bulW1o4AAAAJ:mVmsd5A6BfQC:
-    citations: 18
+    citations: 20
     title: It's Time to Bring Mental Health Literacy Education into the Postsecondary Curriculum.
     year: '2023'
   bulW1o4AAAAJ:qUcmZB5y_30C:
